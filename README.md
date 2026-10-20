@@ -163,7 +163,7 @@ Updates a Google Sheets dashboard with analytics data.
 
 ### Request Defaults
 
-- **Base URL:** `https://api-next.ofauth.com`
+- **Base URL:** `https://api.ofauth.com`
 - **Content-Type:** `application/json`
 - **Accept:** `application/json`
 
